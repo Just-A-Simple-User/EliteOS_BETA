@@ -1,4 +1,4 @@
-Syberia Project
+ELITE OS ( modded version of Syberia Project)
 ====================
 
 How to Build?
@@ -8,7 +8,7 @@ To initialize your local repository, use a
 command like this:
 
 ```bash
-  repo init -u https://github.com/syberia-project/manifest.git -b 9.0
+  repo init -u https://github.com/Just-A-Simple-User/EliteOS_BETA -b 9.0
 ```
   
 Then to sync up:
@@ -21,7 +21,7 @@ Then to sync up:
    . build/envsetup.sh
        brunch <device_name>
 
-Submitting Patches
+Submitting Patches   (NOT WORKING ON THIS BUILD)
 ------------------
 Our ROM is open source, and patches are always welcome!
 You can send patches by using these commands:
